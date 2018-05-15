@@ -1,3 +1,21 @@
+body {
+  background-color: green;
+}
+
 .center {
   text-align: center;
+}
+
+.div1 {
+  color: blue;
+  background-color: yellow;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.div2 {
+  color: purple;
+  background-color: orange;
+  margin-left: 400px;
+  margin-right: 400px;
 }
